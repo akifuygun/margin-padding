@@ -15,8 +15,10 @@ Margin and Padding Classes
 ## Units (px):
 5 - 10 - 15 - 20 - 25 - 30 - 40 - 50 - 100
 
-## Usage:
+## Examples:
+Just use classes as below:
 ```
+
 <div class="pt50 mb20">Lorem ipsum dolor sit amet.</div>
 <!-- padding-top:50px; margin-bottom:20px; -->
 
