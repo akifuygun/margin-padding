@@ -1158,6 +1158,9 @@
     .pt0-xs{
         padding-top: 0;
     }
+    .pt5-xs{
+        padding-top: 5px;
+    }
     .pt10-xs{
         padding-top: 10px;
     }
